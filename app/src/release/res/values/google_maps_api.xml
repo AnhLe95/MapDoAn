@@ -17,7 +17,5 @@
     -->
     <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
     </string>
-    <meta-data
-        android:name ="com.google.android.maps.v2.API_KEY"
-        android:value ="AIzaSyAiMPXtt6T683_XgVmiMhoPAWmUC3wHYyU"/>
+    
 </resources>
